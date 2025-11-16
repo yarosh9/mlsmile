@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: #cccccc;
+    background-color: #666;
 }
 
 h1 {
@@ -28,16 +28,5 @@ p {
             width: 500px;
             object-fit: cover;
             margin: 10px;
-            border: 1px solid #ddd;
-}
-.gallery_an {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-}
-.gallery_an img {
-            height: 300px;
-            object-fit: cover;
-            margin: 10px;
-            border: 1px solid #ddd;
+            border: 1px solid #333;
 }
