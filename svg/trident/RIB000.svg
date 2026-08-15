@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   viewBox="0 0 210 210"
+   height="210mm"
+   width="210mm">
+  <defs>
+    <linearGradient id="linearGradient821" >       
+      <stop style="stop-color:#ffff00;" offset="0.00" />
+      <stop style="stop-color:#ffff00;" offset="0.10" />
+      <stop style="stop-color:#887700;" offset="0.10" />
+      <stop style="stop-color:#887700;" offset="0.11" />
+      <stop style="stop-color:#ffff00;" offset="0.11" />
+      <stop style="stop-color:#ffff00;" offset="0.12" />
+      <stop style="stop-color:#887700;" offset="0.12" />
+      <stop style="stop-color:#887700;" offset="0.13" />
+      <stop style="stop-color:#ffff00;" offset="0.13" />
+      <stop style="stop-color:#887700;" offset="0.87" />
+      <stop style="stop-color:#ffff00;" offset="0.87" />
+      <stop style="stop-color:#ffff00;" offset="0.88" />
+      <stop style="stop-color:#887700;" offset="0.88" />
+      <stop style="stop-color:#887700;" offset="0.89" />
+      <stop style="stop-color:#ffff00;" offset="0.89" />
+      <stop style="stop-color:#ffff00;" offset="0.90" />
+      <stop style="stop-color:#887700;" offset="0.90" />
+      <stop style="stop-color:#887700;" offset="1.00" />
+    </linearGradient>
+    <linearGradient id="linearGradient822" >
+        <stop offset="0%"   style="stop-color: #000000;stop-opacity:1"/>
+        <stop offset="48%"  style="stop-color: #0077ff;stop-opacity:0"/>
+        <stop offset="48%"  style="stop-color: #0077ff;stop-opacity:0.5"/>
+        <stop offset="66%"  style="stop-color: #0077ff;stop-opacity:0.5"/>
+        <stop offset="66%"  style="stop-color: #0077ff;stop-opacity:1"/>
+        <stop offset="77%"  style="stop-color: #00bbff;stop-opacity:0.5"/>
+        <stop offset="77%"  style="stop-color: #003399;stop-opacity:0.5"/>
+        <stop offset="100%" style="stop-color: #003399;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient
+       x1="10%" y1="0%" x2="0%" y2="0%"
+       spreadMethod="reflect"
+       id="linearGradient823"
+       xlink:href="#linearGradient821" />
+    <linearGradient
+       x1="0%" y1="0%" x2="0%" y2="10%"
+       spreadMethod="reflect"
+       id="linearGradient824"
+       xlink:href="#linearGradient821" />
+    <linearGradient 
+        id="linearGradient1"
+        xlink:href="#linearGradient822"
+        x1="0%" y1="0%" x2="23%" y2="16%"
+        spreadMethod="repeat" />
+    <linearGradient 
+        id="linearGradient2"
+        xlink:href="#linearGradient822"
+        x1="23%" y1="0%" x2="0%" y2="15.5%"
+        spreadMethod="repeat" />
+    <filter id="blurMe"><feGaussianBlur in="SourceGraphic" stdDeviation="15" /></filter>
+    <path id="trident"
+       d="M 127.51852,48.215741 116.19363,59.540631 105,48.346999 93.806368,59.540631 82.481995,48.216258 V 93.13858 H 127.51852 Z M 20.000021,98.068512 v 19.432908 h 9.716719 v 9.71672 h -9.716719 v 31.60324 H 43.13556 v -31.60324 h 12.028206 v 31.60324 H 78.299305 V 98.068512 Z m 62.462337,0 v 9.716708 h 10.97039 v 41.31996 h -10.97039 v 9.7162 h 45.075802 v -9.7162 h -10.97039 v -41.31996 h 10.97039 v -9.716708 z m 49.238862,0 v 60.752868 h 58.29876 v -31.60324 h -9.71672 v -9.71672 h 9.71672 V 98.068512 Z m -88.56566,9.716708 h 12.028206 v 9.7162 H 43.13556 Z m 111.70119,0 h 12.02821 v 9.7162 h -12.02821 z m 0,19.43292 h 12.02821 v 21.88704 h -12.02821 z" />
+  </defs>
+    <rect y="0" x="0" height="210" width="210" style="opacity:1;fill:url(#linearGradient823);stroke:none" />
+    <rect y="0" x="0" height="210" width="210" style="opacity:0.5;fill:url(#linearGradient824);stroke:none" />
+    <use x="0" y="-10" xlink:href="#trident" style="fill:#8877000;fill-opacity:1;filter:url(#blurMe)" />
+    <use x="0" y="-10" xlink:href="#trident" style="fill:url(#linearGradient2);fill-opacity:0.6" />
+    <use x="0" y="-10" xlink:href="#trident" style="fill:url(#linearGradient1);fill-opacity:0.6;stroke:#003366;stroke-width:0.61" />
+</svg>

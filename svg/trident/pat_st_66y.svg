@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   viewBox="0 0 210 210"
+   height="210mm"
+   width="210mm">
+  <defs>
+    <linearGradient
+       id="linearGradient821" >       
+      <stop style="stop-color:#00aaaa;stop-opacity:1" offset="0.00" />
+      <stop style="stop-color:#00aaaa;stop-opacity:1" offset="0.10" />
+      <stop style="stop-color:#000000;stop-opacity:1" offset="0.10" />
+      <stop style="stop-color:#000000;stop-opacity:1" offset="0.11" />
+      <stop style="stop-color:#00aaaa;stop-opacity:1" offset="0.11" />
+      <stop style="stop-color:#00aaaa;stop-opacity:1" offset="0.12" />
+      <stop style="stop-color:#000000;stop-opacity:1" offset="0.12" />
+      <stop style="stop-color:#000000;stop-opacity:1" offset="0.13" />
+      <stop style="stop-color:#00aaaa;stop-opacity:1" offset="0.13" />
+      <stop style="stop-color:#000000;stop-opacity:1" offset="0.87" />
+      <stop style="stop-color:#00aaaa;stop-opacity:1" offset="0.87" />
+      <stop style="stop-color:#00aaaa;stop-opacity:1" offset="0.88" />
+      <stop style="stop-color:#000000;stop-opacity:1" offset="0.88" />
+      <stop style="stop-color:#000000;stop-opacity:1" offset="0.89" />
+      <stop style="stop-color:#00aaaa;stop-opacity:1" offset="0.89" />
+      <stop style="stop-color:#00aaaa;stop-opacity:1" offset="0.90" />
+      <stop style="stop-color:#000000;stop-opacity:1" offset="0.90" />
+      <stop style="stop-color:#000000;stop-opacity:1" offset="1.00" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       x1="21%" y1="0%" x2="0%" y2="10.6%"
+       spreadMethod="repeat"
+       id="linearGradient823"
+       xlink:href="#linearGradient821" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       x1="0%" y1="0%" x2="21%" y2="10.6%"
+       spreadMethod="repeat"
+       id="linearGradient824"
+       xlink:href="#linearGradient821" />
+
+    <linearGradient id="linearGradient1"
+        x1="0%" y1="0%" x2="5%" y2="3%"
+        spreadMethod="repeat">
+        <stop offset="0%" style="stop-color: #006666;stop-opacity:0.6"/>
+        <stop offset="48%" style="stop-color: #00ffff;stop-opacity:0"/>
+        <stop offset="48%" style="stop-color: #ffff00;"/>
+        <stop offset="52%" style="stop-color: #ffff00;"/>
+        <stop offset="52%" style="stop-color: #ffee00;"/>
+        <stop offset="100%" style="stop-color: #444400;"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2"
+        x1="5%" y1="0%" x2="0%" y2="3%"
+        spreadMethod="repeat">
+        <stop offset="0%" style="stop-color: #006666;stop-opacity:0.6"/>
+        <stop offset="48%" style="stop-color: #00ffff;stop-opacity:0"/>
+        <stop offset="48%" style="stop-color: #ffff00;"/>
+        <stop offset="52%" style="stop-color: #ffff00;"/>
+        <stop offset="52%" style="stop-color: #ffee00;"/>
+        <stop offset="100%" style="stop-color: #444400;"/>
+    </linearGradient>
+
+    <filter id="blurMe">
+       <feGaussianBlur in="SourceGraphic" stdDeviation="15" />
+    </filter>
+  </defs>
+
+    <rect
+       y="0"
+       x="0"
+       height="210"
+       width="210"
+       style="opacity:1;fill:url(#linearGradient823);stroke:none" />
+    <rect
+       y="0"
+       x="0"
+       height="210"
+       width="210"
+       style="opacity:0.5;fill:url(#linearGradient824);stroke:none" />
+
+
+    <path
+       d="m 29.961572,23.2371 -0.0267,72.575302 -0.0267,72.575298 C 55.852108,153.4217 71.853838,125.76351 71.89692,95.812402 71.864833,65.872295 55.884994,38.216652 29.961572,23.2371 Z m 74.925038,0 A 50.360798,50.360798 0 0 0 79.690418,66.78789 50.360798,50.360798 0 0 0 104.85456,110.33801 50.360798,50.360798 0 0 0 130.05075,66.78789 50.360798,50.360798 0 0 0 104.88661,23.2371 Z m 75.59323,0 c -25.92342,14.979552 -41.90331,42.635195 -41.93534,72.575302 0.0431,29.951108 16.04488,57.609298 41.98875,72.575298 l -0.0267,-72.575298 z m -75.60925,96.37767 a 33.573862,33.573862 0 0 0 -33.573786,33.57378 33.573862,33.573862 0 0 0 33.573786,33.57445 33.573862,33.573862 0 0 0 33.57377,-33.57445 33.573862,33.573862 0 0 0 -33.57377,-33.57378 z"
+     style="fill:#0000000;fill-opacity:1;filter:url(#blurMe)" />
+    <path
+       d="m 29.961572,23.2371 -0.0267,72.575302 -0.0267,72.575298 C 55.852108,153.4217 71.853838,125.76351 71.89692,95.812402 71.864833,65.872295 55.884994,38.216652 29.961572,23.2371 Z m 74.925038,0 A 50.360798,50.360798 0 0 0 79.690418,66.78789 50.360798,50.360798 0 0 0 104.85456,110.33801 50.360798,50.360798 0 0 0 130.05075,66.78789 50.360798,50.360798 0 0 0 104.88661,23.2371 Z m 75.59323,0 c -25.92342,14.979552 -41.90331,42.635195 -41.93534,72.575302 0.0431,29.951108 16.04488,57.609298 41.98875,72.575298 l -0.0267,-72.575298 z m -75.60925,96.37767 a 33.573862,33.573862 0 0 0 -33.573786,33.57378 33.573862,33.573862 0 0 0 33.573786,33.57445 33.573862,33.573862 0 0 0 33.57377,-33.57445 33.573862,33.573862 0 0 0 -33.57377,-33.57378 z"
+     style="fill:url(#linearGradient2);fill-opacity:0.6" />
+        <path
+       d="m 29.961572,23.2371 -0.0267,72.575302 -0.0267,72.575298 C 55.852108,153.4217 71.853838,125.76351 71.89692,95.812402 71.864833,65.872295 55.884994,38.216652 29.961572,23.2371 Z m 74.925038,0 A 50.360798,50.360798 0 0 0 79.690418,66.78789 50.360798,50.360798 0 0 0 104.85456,110.33801 50.360798,50.360798 0 0 0 130.05075,66.78789 50.360798,50.360798 0 0 0 104.88661,23.2371 Z m 75.59323,0 c -25.92342,14.979552 -41.90331,42.635195 -41.93534,72.575302 0.0431,29.951108 16.04488,57.609298 41.98875,72.575298 l -0.0267,-72.575298 z m -75.60925,96.37767 a 33.573862,33.573862 0 0 0 -33.573786,33.57378 33.573862,33.573862 0 0 0 33.573786,33.57445 33.573862,33.573862 0 0 0 33.57377,-33.57445 33.573862,33.573862 0 0 0 -33.57377,-33.57378 z"
+     style="fill:url(#linearGradient1);fill-opacity:0.6;stroke:#ffcc00;stroke-width:1" />
+</svg>
